@@ -1,0 +1,57 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Hash",
+            "request": "launch",
+            "mainClass": "Hash",
+            "projectName": "Map_c41c0d17"
+        },
+        {
+            "type": "java",
+            "name": "Hash1",
+            "request": "launch",
+            "mainClass": "Hash1",
+            "projectName": "Map_c41c0d17"
+        },
+        {
+            "type": "java",
+            "name": "Identity",
+            "request": "launch",
+            "mainClass": "Identity",
+            "projectName": "Map_c41c0d17"
+        },
+        {
+            "type": "java",
+            "name": "TREE_MAP",
+            "request": "launch",
+            "mainClass": "TREE_MAP",
+            "projectName": "Map_c41c0d17"
+        },
+        {
+            "type": "java",
+            "name": "Treemap",
+            "request": "launch",
+            "mainClass": "Treemap",
+            "projectName": "Map_c41c0d17"
+        },
+        {
+            "type": "java",
+            "name": "WeakHash",
+            "request": "launch",
+            "mainClass": "WeakHash",
+            "projectName": "Map_c41c0d17"
+        }
+    ]
+}
